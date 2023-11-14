@@ -5,7 +5,7 @@ html
   <title>Camisetas da Disney</title>
 </head>
 <body>
-  <img src="reileao.png" alt="Camisetas da Disney">
+  <img src="reileao (1).png" alt="Camisetas da Disney">
   <h1>Camisetas da Disney</h1>
   <p>Confira nossa coleção de camisetas da Disney!</p>
 
