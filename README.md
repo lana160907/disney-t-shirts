@@ -7,7 +7,7 @@ html
 <body>
   <h1>Camisetas da Disney</h1>
   <p>Confira nossa coleção de camisetas da Disney!</p>
-    <img src="star.webp" alt="Camisetas da Disney">
+    <img src="reileao (1).png" alt="Camisetas da Disney">
 
   <h2>Categorias:</h2>
   <ul>
