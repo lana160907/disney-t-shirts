@@ -20,7 +20,7 @@ html
 
   <h2>Produtos em destaque:</h2>
   <div class="produto">
-    <img src="caminho_para_imagem.jpg" alt="Camiseta Mickey Mouse">
+    <img src="mickey (1).png" alt="Camiseta Mickey Mouse">
     <h3>Camiseta Mickey Mouse</h3>
     <p>R$ 39,99</p>
     <button>Comprar</button>
