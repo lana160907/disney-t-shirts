@@ -2,7 +2,6 @@ html
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Camisetas da Disney</title>
 </head>
 <body>
   <h1>Camisetas da Disney</h1>
